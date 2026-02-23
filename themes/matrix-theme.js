@@ -7,7 +7,7 @@ export class MatrixThemePlugin extends PikabootPlugin {
             id: 'theme-matrix',
             name: 'Matrix Theme',
             version: '1.0.0',
-            author: 'Neo',
+            author: 'Example User',
             description: 'Enter the Matrix with this green-on-black theme.'
         });
         
